@@ -1,4 +1,7 @@
-# instructions
+# contruction
+
+For best results use the supplied PNG files in the cricut folder in your cutting software. 
+Resize to 7.4cm width for the correct proportions. 
 
 ## paper back 
 
